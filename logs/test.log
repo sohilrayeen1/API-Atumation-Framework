@@ -1,0 +1,1175 @@
+2026-05-05 01:37:45 INFO  myTestListner:14 - This Suit Started*****
+2026-05-05 01:37:45 INFO  myTestListner:33 - Test Execution Started*****
+2026-05-05 01:37:45 INFO  myTestListner:34 - class org.testng.internal.TestNGMethod
+2026-05-05 01:37:49 ERROR myTestListner:28 - Test Got Failed*****
+2026-05-05 01:37:49 INFO  myTestListner:29 - class org.testng.internal.TestNGMethod
+2026-05-05 01:37:49 INFO  myTestListner:18 - This Suit Completed*****
+2026-05-05 01:40:50 INFO  myTestListner:14 - This Suit Started*****
+2026-05-05 01:40:50 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-05 01:40:50 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-05 01:40:53 ERROR myTestListner:30 - Test Got Failed*****
+2026-05-05 01:40:53 INFO  myTestListner:31 - Failed-Test****class org.testng.internal.TestNGMethod
+2026-05-05 01:40:53 INFO  myTestListner:35 - This Suit Completed*****
+2026-05-05 01:42:18 INFO  myTestListner:14 - This Suit Started*****
+2026-05-05 01:42:18 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-05 01:42:18 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-05 01:42:22 ERROR myTestListner:30 - Test Got Failed*****
+2026-05-05 01:42:22 INFO  myTestListner:31 - Failed-Test****class org.testng.internal.TestNGMethod
+2026-05-05 01:42:22 INFO  myTestListner:35 - This Suit Completed*****
+2026-05-06 01:22:26 INFO  myTestListner:14 - This Suit Started*****
+2026-05-06 01:22:26 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-06 01:22:26 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-06 01:22:28 INFO  myTestListner:24 - Test Got Passed*****
+2026-05-06 01:22:28 INFO  myTestListner:25 - class org.testng.internal.TestNGMethod
+2026-05-06 01:22:28 INFO  myTestListner:26 - Description***Verify if Login Api is working....
+2026-05-06 01:22:28 INFO  myTestListner:35 - This Suit Completed*****
+2026-05-06 01:26:30 INFO  myTestListner:14 - This Suit Started*****
+2026-05-06 01:26:30 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-06 01:26:30 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-06 01:26:31 INFO  myTestListner:24 - Test Got Passed*****
+2026-05-06 01:26:31 INFO  myTestListner:25 - class org.testng.internal.TestNGMethod
+2026-05-06 01:26:31 INFO  myTestListner:26 - Description***Verify if Login Api is working....
+2026-05-06 01:26:31 INFO  myTestListner:35 - This Suit Completed*****
+2026-05-06 01:55:17 INFO  myTestListner:14 - This Suit Started*****
+2026-05-06 01:55:17 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-06 01:55:17 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-06 01:55:18 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 01:55:18 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 01:55:18 INFO  loggingFilter:30 - request Payload :{"username":"uday1234","password":"uday12345"}
+2026-05-06 01:55:19 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 01:55:19 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:25:18 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 01:55:19 INFO  loggingFilter:36 - response Payload :{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMjcxOCwiZXhwIjoxNzc4MDE2MzE4fQ.S--AMV35UsemiPdKSZqhF9YtDwYudom5gIcSlOHIIpw",
+    "type": "Bearer",
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2026-05-06 01:55:19 INFO  myTestListner:24 - Test Got Passed*****
+2026-05-06 01:55:19 INFO  myTestListner:25 - class org.testng.internal.TestNGMethod
+2026-05-06 01:55:19 INFO  myTestListner:26 - Description***Verify if Login Api is working....
+2026-05-06 01:55:19 INFO  myTestListner:35 - This Suit Completed*****
+2026-05-06 01:57:31 INFO  myTestListner:14 - This Suit Started*****
+2026-05-06 01:57:31 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-06 01:57:31 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-06 01:57:32 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 01:57:32 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 01:57:32 INFO  loggingFilter:30 - request Payload :{"username":"uday1234","password":"uday12345"}
+2026-05-06 01:57:32 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 01:57:32 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:27:31 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 01:57:32 INFO  loggingFilter:36 - response Payload :{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMjg1MSwiZXhwIjoxNzc4MDE2NDUxfQ.L6EUpnwmwK01xzCpizuEh6oAGjMuEboU970YOXA0ID8",
+    "type": "Bearer",
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2026-05-06 01:57:32 INFO  myTestListner:24 - Test Got Passed*****
+2026-05-06 01:57:32 INFO  myTestListner:25 - class org.testng.internal.TestNGMethod
+2026-05-06 01:57:32 INFO  myTestListner:26 - Description***Verify if Login Api is working....
+2026-05-06 01:57:32 INFO  myTestListner:35 - This Suit Completed*****
+2026-05-06 01:57:53 INFO  myTestListner:14 - This Suit Started*****
+2026-05-06 01:57:53 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-06 01:57:53 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-06 01:57:54 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 01:57:54 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 01:57:54 INFO  loggingFilter:30 - request Payload :{"username":"uday1234","password":"uday12345"}
+2026-05-06 01:57:55 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 01:57:55 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:27:54 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 01:57:55 INFO  loggingFilter:36 - response Payload :{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMjg3NCwiZXhwIjoxNzc4MDE2NDc0fQ.KauWerZ6WO0XBi2UyzxAzA5E_8tfaqesh9wS-P10SFk",
+    "type": "Bearer",
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2026-05-06 01:57:55 INFO  myTestListner:24 - Test Got Passed*****
+2026-05-06 01:57:55 INFO  myTestListner:25 - class org.testng.internal.TestNGMethod
+2026-05-06 01:57:55 INFO  myTestListner:26 - Description***Verify if Login Api is working....
+2026-05-06 01:57:55 INFO  myTestListner:35 - This Suit Completed*****
+2026-05-06 02:00:42 INFO  myTestListner:14 - This Suit Started*****
+2026-05-06 02:00:42 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-06 02:00:42 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-06 02:00:43 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:00:43 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 02:00:43 INFO  loggingFilter:30 - request Payload :{"username":"uday1234","password":"uday12345"}
+2026-05-06 02:00:43 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:00:43 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:30:42 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:00:43 INFO  loggingFilter:36 - response Payload :{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzA0MiwiZXhwIjoxNzc4MDE2NjQyfQ.0fePBripFvrjlvrPOpEXzjqkp5IAYfiprwA8WnlbFKg",
+    "type": "Bearer",
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2026-05-06 02:00:43 INFO  myTestListner:24 - Test Got Passed*****
+2026-05-06 02:00:43 INFO  myTestListner:25 - class org.testng.internal.TestNGMethod
+2026-05-06 02:00:43 INFO  myTestListner:26 - Description***Verify if Login Api is working....
+2026-05-06 02:00:43 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-06 02:00:43 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-06 02:00:43 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:00:43 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 02:00:43 INFO  loggingFilter:30 - request Payload :{"username":"aamirr","password":"aamir1234","email":"sohilrayeen03@gmail.com","firstName":"Aamirr","lastName":"Sohill","mobileNumber":"7415687885"}
+2026-05-06 02:00:43 INFO  loggingFilter:34 - Status Code :400
+2026-05-06 02:00:43 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=text/plain;charset=UTF-8
+Content-Length=33
+Date=Tue, 05 May 2026 20:30:43 GMT
+Connection=close
+2026-05-06 02:00:43 INFO  loggingFilter:36 - response Payload :Error: Username is already taken!
+2026-05-06 02:00:43 ERROR myTestListner:30 - Test Got Failed*****
+2026-05-06 02:00:43 INFO  myTestListner:31 - Failed-Test****class org.testng.internal.TestNGMethod
+2026-05-06 02:00:43 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-06 02:00:43 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-06 02:00:43 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:00:43 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 02:00:43 INFO  loggingFilter:30 - request Payload :{"username":"jerry.lockman","password":"7hsfdkto3e9rt","email":"january.mosciski@hotmail.com","firstName":"Toney","lastName":"Haag","mobileNumber":"9767117017"}
+2026-05-06 02:00:44 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:00:44 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=text/plain;charset=UTF-8
+Content-Length=29
+Date=Tue, 05 May 2026 20:30:43 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:00:44 INFO  loggingFilter:36 - response Payload :User registered successfully!
+2026-05-06 02:00:44 INFO  myTestListner:24 - Test Got Passed*****
+2026-05-06 02:00:44 INFO  myTestListner:25 - class org.testng.internal.TestNGMethod
+2026-05-06 02:00:44 INFO  myTestListner:26 - Description***Verify that a user can sign up successfully with valid details
+2026-05-06 02:00:44 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-06 02:00:44 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-06 02:00:44 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:00:44 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 02:00:44 INFO  loggingFilter:30 - request Payload :{"username":"uday1234","password":"uday12345"}
+2026-05-06 02:00:44 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:00:44 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:30:43 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:00:44 INFO  loggingFilter:36 - response Payload :{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzA0MywiZXhwIjoxNzc4MDE2NjQzfQ.0XjyxnKSiM5EihY4o0rVadGcNYIetHckPLZwTraUrus",
+    "type": "Bearer",
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2026-05-06 02:00:44 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:00:44 INFO  loggingFilter:29 - request Header :Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzA0MywiZXhwIjoxNzc4MDE2NjQzfQ.0XjyxnKSiM5EihY4o0rVadGcNYIetHckPLZwTraUrus
+Accept=*/*
+2026-05-06 02:00:44 INFO  loggingFilter:30 - request Payload :null
+2026-05-06 02:00:44 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:00:44 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:30:43 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:00:44 INFO  loggingFilter:36 - response Payload :{
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "firstName": "Rahul",
+    "lastName": "Sharma",
+    "mobileNumber": "9345678922"
+}
+2026-05-06 02:00:44 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:00:44 INFO  loggingFilter:29 - request Header :Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzA0MywiZXhwIjoxNzc4MDE2NjQzfQ.0XjyxnKSiM5EihY4o0rVadGcNYIetHckPLZwTraUrus
+Accept=*/*
+Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzA0MywiZXhwIjoxNzc4MDE2NjQzfQ.0XjyxnKSiM5EihY4o0rVadGcNYIetHckPLZwTraUrus
+Content-Type=application/json
+2026-05-06 02:00:44 INFO  loggingFilter:30 - request Payload :{"firstName":"Rahul","lastName":"Sharma","email":"rahul.sharma03@gmail.com","mobileNumber":"9345678922","id":"1","username":"profile_edit03"}
+2026-05-06 02:00:44 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:00:44 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:30:43 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:00:44 INFO  loggingFilter:36 - response Payload :{
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "firstName": "Rahul",
+    "lastName": "Sharma",
+    "mobileNumber": "9345678922"
+}
+2026-05-06 02:00:44 INFO  myTestListner:24 - Test Got Passed*****
+2026-05-06 02:00:44 INFO  myTestListner:25 - class org.testng.internal.TestNGMethod
+2026-05-06 02:00:44 INFO  myTestListner:26 - Description***
+2026-05-06 02:00:44 INFO  myTestListner:35 - This Suit Completed*****
+2026-05-06 02:01:33 INFO  myTestListner:14 - This Suit Started*****
+2026-05-06 02:01:33 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-06 02:01:33 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-06 02:01:33 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:01:33 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 02:01:33 INFO  loggingFilter:30 - request Payload :{"username":"zachary.hermiston","password":"m9pw9g5ewpzcmk","email":"toni.wuckert@hotmail.com","firstName":"Ellsworth","lastName":"McCullough","mobileNumber":"9827480925"}
+2026-05-06 02:01:34 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:01:34 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=text/plain;charset=UTF-8
+Content-Length=29
+Date=Tue, 05 May 2026 20:31:33 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:01:34 INFO  loggingFilter:36 - response Payload :User registered successfully!
+2026-05-06 02:01:34 INFO  myTestListner:24 - Test Got Passed*****
+2026-05-06 02:01:34 INFO  myTestListner:25 - class org.testng.internal.TestNGMethod
+2026-05-06 02:01:34 INFO  myTestListner:26 - Description***Verify that a user can sign up successfully with valid details
+2026-05-06 02:01:34 INFO  myTestListner:35 - This Suit Completed*****
+2026-05-06 02:02:00 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:02:00 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 02:02:00 INFO  loggingFilter:30 - request Payload :{"username":"aamirr","password":"aamir1234","email":"sohilrayeen03@gmail.com","firstName":"Aamirr","lastName":"Sohill","mobileNumber":"7415687885"}
+2026-05-06 02:02:01 INFO  loggingFilter:34 - Status Code :400
+2026-05-06 02:02:01 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=text/plain;charset=UTF-8
+Content-Length=33
+Date=Tue, 05 May 2026 20:32:00 GMT
+Connection=close
+2026-05-06 02:02:01 INFO  loggingFilter:36 - response Payload :Error: Username is already taken!
+2026-05-06 02:02:20 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:02:20 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 02:02:20 INFO  loggingFilter:30 - request Payload :{"username":"uday1234","password":"uday12345"}
+2026-05-06 02:02:20 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:02:20 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:32:20 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:02:20 INFO  loggingFilter:36 - response Payload :{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzE0MCwiZXhwIjoxNzc4MDE2NzQwfQ.HpgzXomYNpoef8gkvnjANuzWSS1b_91JZwH0G_bYzI8",
+    "type": "Bearer",
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2026-05-06 02:02:20 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:02:20 INFO  loggingFilter:29 - request Header :Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzE0MCwiZXhwIjoxNzc4MDE2NzQwfQ.HpgzXomYNpoef8gkvnjANuzWSS1b_91JZwH0G_bYzI8
+Accept=*/*
+2026-05-06 02:02:20 INFO  loggingFilter:30 - request Payload :null
+2026-05-06 02:02:20 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:02:20 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:32:20 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:02:20 INFO  loggingFilter:36 - response Payload :{
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "firstName": "Rahul",
+    "lastName": "Sharma",
+    "mobileNumber": "9345678922"
+}
+2026-05-06 02:02:20 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:02:20 INFO  loggingFilter:29 - request Header :Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzE0MCwiZXhwIjoxNzc4MDE2NzQwfQ.HpgzXomYNpoef8gkvnjANuzWSS1b_91JZwH0G_bYzI8
+Accept=*/*
+Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzE0MCwiZXhwIjoxNzc4MDE2NzQwfQ.HpgzXomYNpoef8gkvnjANuzWSS1b_91JZwH0G_bYzI8
+Content-Type=application/json
+2026-05-06 02:02:20 INFO  loggingFilter:30 - request Payload :{"firstName":"Rahul","lastName":"Sharma","email":"rahul.sharma03@gmail.com","mobileNumber":"9345678922","id":"1","username":"profile_edit03"}
+2026-05-06 02:02:20 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:02:20 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:32:20 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:02:20 INFO  loggingFilter:36 - response Payload :{
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "firstName": "Rahul",
+    "lastName": "Sharma",
+    "mobileNumber": "9345678922"
+}
+2026-05-06 02:02:27 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:02:27 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 02:02:27 INFO  loggingFilter:30 - request Payload :{"username":"uday1234","password":"uday12345"}
+2026-05-06 02:02:28 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:02:28 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:32:27 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:02:28 INFO  loggingFilter:36 - response Payload :{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzE0NywiZXhwIjoxNzc4MDE2NzQ3fQ.RgChY0qni6kqUyBTcVyeQqk_NYS68eXHMi2c0NTNxcw",
+    "type": "Bearer",
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2026-05-06 02:02:28 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:02:28 INFO  loggingFilter:29 - request Header :Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzE0NywiZXhwIjoxNzc4MDE2NzQ3fQ.RgChY0qni6kqUyBTcVyeQqk_NYS68eXHMi2c0NTNxcw
+Accept=*/*
+2026-05-06 02:02:28 INFO  loggingFilter:30 - request Payload :null
+2026-05-06 02:02:28 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:02:28 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:32:27 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:02:28 INFO  loggingFilter:36 - response Payload :{
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "firstName": "Rahul",
+    "lastName": "Sharma",
+    "mobileNumber": "9345678922"
+}
+2026-05-06 02:02:28 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:02:28 INFO  loggingFilter:29 - request Header :Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzE0NywiZXhwIjoxNzc4MDE2NzQ3fQ.RgChY0qni6kqUyBTcVyeQqk_NYS68eXHMi2c0NTNxcw
+Accept=*/*
+Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzE0NywiZXhwIjoxNzc4MDE2NzQ3fQ.RgChY0qni6kqUyBTcVyeQqk_NYS68eXHMi2c0NTNxcw
+Content-Type=application/json
+2026-05-06 02:02:28 INFO  loggingFilter:30 - request Payload :{"firstName":"Rahul","lastName":"Sharma","email":"rahul.sharma03@gmail.com","mobileNumber":"9345678922","id":"1","username":"profile_edit03"}
+2026-05-06 02:02:28 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:02:28 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:32:27 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:02:28 INFO  loggingFilter:36 - response Payload :{
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "firstName": "Rahul",
+    "lastName": "Sharma",
+    "mobileNumber": "9345678922"
+}
+2026-05-06 02:02:57 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:02:57 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 02:02:57 INFO  loggingFilter:30 - request Payload :{ "email": "sohilrayeen03@gmail.com" }
+2026-05-06 02:02:57 INFO  loggingFilter:34 - Status Code :500
+2026-05-06 02:02:57 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:32:56 GMT
+Connection=close
+2026-05-06 02:02:57 INFO  loggingFilter:36 - response Payload :{
+    "timestamp": "2026-05-05 20:32:56",
+    "status": 500,
+    "error": "System Error",
+    "message": "An unexpected error occurred",
+    "path": "uri=/api/auth/forgot-password",
+    "solution": "Please try again later or contact support",
+    "errorCode": "SYS_001"
+}
+2026-05-06 02:03:10 INFO  myTestListner:14 - This Suit Started*****
+2026-05-06 02:03:10 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-06 02:03:10 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-06 02:03:11 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:03:11 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 02:03:11 INFO  loggingFilter:30 - request Payload :{"username":"uday1234","password":"uday12345"}
+2026-05-06 02:03:12 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:03:12 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:33:11 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:03:12 INFO  loggingFilter:36 - response Payload :{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzE5MSwiZXhwIjoxNzc4MDE2NzkxfQ.GxA7I-rdFV7JThgCaV6ZHf1ESfeHII9JbJ-6jCfv_rU",
+    "type": "Bearer",
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2026-05-06 02:03:12 INFO  myTestListner:24 - Test Got Passed*****
+2026-05-06 02:03:12 INFO  myTestListner:25 - class org.testng.internal.TestNGMethod
+2026-05-06 02:03:12 INFO  myTestListner:26 - Description***Verify if Login Api is working....
+2026-05-06 02:03:12 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-06 02:03:12 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-06 02:03:12 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:03:12 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 02:03:12 INFO  loggingFilter:30 - request Payload :{"username":"carter.kessler","password":"olsrvas3zl6","email":"jamar.cartwright@yahoo.com","firstName":"Sandee","lastName":"Fisher","mobileNumber":"9650683005"}
+2026-05-06 02:03:12 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:03:12 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=text/plain;charset=UTF-8
+Content-Length=29
+Date=Tue, 05 May 2026 20:33:11 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:03:12 INFO  loggingFilter:36 - response Payload :User registered successfully!
+2026-05-06 02:03:12 INFO  myTestListner:24 - Test Got Passed*****
+2026-05-06 02:03:12 INFO  myTestListner:25 - class org.testng.internal.TestNGMethod
+2026-05-06 02:03:12 INFO  myTestListner:26 - Description***Verify that a user can sign up successfully with valid details
+2026-05-06 02:03:12 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-06 02:03:12 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-06 02:03:12 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:03:12 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 02:03:12 INFO  loggingFilter:30 - request Payload :{"username":"uday1234","password":"uday12345"}
+2026-05-06 02:03:12 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:03:12 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:33:12 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:03:12 INFO  loggingFilter:36 - response Payload :{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzE5MiwiZXhwIjoxNzc4MDE2NzkyfQ._-RmkBPhtGH3wPbxmDVMU3PxVFn9AxIpAVEFVfkHJAw",
+    "type": "Bearer",
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2026-05-06 02:03:12 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:03:12 INFO  loggingFilter:29 - request Header :Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzE5MiwiZXhwIjoxNzc4MDE2NzkyfQ._-RmkBPhtGH3wPbxmDVMU3PxVFn9AxIpAVEFVfkHJAw
+Accept=*/*
+2026-05-06 02:03:12 INFO  loggingFilter:30 - request Payload :null
+2026-05-06 02:03:12 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:03:12 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:33:12 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:03:12 INFO  loggingFilter:36 - response Payload :{
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "firstName": "Rahul",
+    "lastName": "Sharma",
+    "mobileNumber": "9345678922"
+}
+2026-05-06 02:03:12 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:03:12 INFO  loggingFilter:29 - request Header :Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzE5MiwiZXhwIjoxNzc4MDE2NzkyfQ._-RmkBPhtGH3wPbxmDVMU3PxVFn9AxIpAVEFVfkHJAw
+Accept=*/*
+Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzE5MiwiZXhwIjoxNzc4MDE2NzkyfQ._-RmkBPhtGH3wPbxmDVMU3PxVFn9AxIpAVEFVfkHJAw
+Content-Type=application/json
+2026-05-06 02:03:12 INFO  loggingFilter:30 - request Payload :{"firstName":"Rahul","lastName":"Sharma","email":"rahul.sharma03@gmail.com","mobileNumber":"9345678922","id":"1","username":"profile_edit03"}
+2026-05-06 02:03:12 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:03:12 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:33:12 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:03:12 INFO  loggingFilter:36 - response Payload :{
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "firstName": "Rahul",
+    "lastName": "Sharma",
+    "mobileNumber": "9345678922"
+}
+2026-05-06 02:03:12 INFO  myTestListner:24 - Test Got Passed*****
+2026-05-06 02:03:12 INFO  myTestListner:25 - class org.testng.internal.TestNGMethod
+2026-05-06 02:03:12 INFO  myTestListner:26 - Description***
+2026-05-06 02:03:12 INFO  myTestListner:35 - This Suit Completed*****
+2026-05-06 02:04:21 INFO  myTestListner:14 - This Suit Started*****
+2026-05-06 02:04:21 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-06 02:04:21 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-06 02:04:21 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:04:21 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 02:04:21 INFO  loggingFilter:30 - request Payload :{"username":"uday1234","password":"uday12345"}
+2026-05-06 02:04:22 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:04:22 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:34:21 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:04:22 INFO  loggingFilter:36 - response Payload :{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzI2MSwiZXhwIjoxNzc4MDE2ODYxfQ.MFbsSH4mX74iUpnAUY7Hh0gKxfiYVnfTTjJfOWgJ2Bw",
+    "type": "Bearer",
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2026-05-06 02:04:22 INFO  myTestListner:24 - Test Got Passed*****
+2026-05-06 02:04:22 INFO  myTestListner:25 - class org.testng.internal.TestNGMethod
+2026-05-06 02:04:22 INFO  myTestListner:26 - Description***Verify if Login Api is working....
+2026-05-06 02:04:22 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-06 02:04:22 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-06 02:04:22 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:04:22 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 02:04:22 INFO  loggingFilter:30 - request Payload :{"username":"truman.maggio","password":"59aqnv0i9cgd7e","email":"darryl.altenwerth@gmail.com","firstName":"Wenona","lastName":"Blanda","mobileNumber":"9501122845"}
+2026-05-06 02:04:22 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:04:22 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=text/plain;charset=UTF-8
+Content-Length=29
+Date=Tue, 05 May 2026 20:34:22 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:04:22 INFO  loggingFilter:36 - response Payload :User registered successfully!
+2026-05-06 02:04:22 INFO  myTestListner:24 - Test Got Passed*****
+2026-05-06 02:04:22 INFO  myTestListner:25 - class org.testng.internal.TestNGMethod
+2026-05-06 02:04:22 INFO  myTestListner:26 - Description***Verify that a user can sign up successfully with valid details
+2026-05-06 02:04:22 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-06 02:04:22 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-06 02:04:22 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:04:22 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 02:04:22 INFO  loggingFilter:30 - request Payload :{"username":"uday1234","password":"uday12345"}
+2026-05-06 02:04:22 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:04:22 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:34:22 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:04:22 INFO  loggingFilter:36 - response Payload :{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzI2MiwiZXhwIjoxNzc4MDE2ODYyfQ.qnxuOp38fCSKUo0knM3mIMdGNYG74BZX7wKwbO54SyY",
+    "type": "Bearer",
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2026-05-06 02:04:22 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:04:22 INFO  loggingFilter:29 - request Header :Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzI2MiwiZXhwIjoxNzc4MDE2ODYyfQ.qnxuOp38fCSKUo0knM3mIMdGNYG74BZX7wKwbO54SyY
+Accept=*/*
+2026-05-06 02:04:22 INFO  loggingFilter:30 - request Payload :null
+2026-05-06 02:04:22 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:04:22 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:34:22 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:04:22 INFO  loggingFilter:36 - response Payload :{
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "firstName": "Rahul",
+    "lastName": "Sharma",
+    "mobileNumber": "9345678922"
+}
+2026-05-06 02:04:22 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:04:22 INFO  loggingFilter:29 - request Header :Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzI2MiwiZXhwIjoxNzc4MDE2ODYyfQ.qnxuOp38fCSKUo0knM3mIMdGNYG74BZX7wKwbO54SyY
+Accept=*/*
+Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzI2MiwiZXhwIjoxNzc4MDE2ODYyfQ.qnxuOp38fCSKUo0knM3mIMdGNYG74BZX7wKwbO54SyY
+Content-Type=application/json
+2026-05-06 02:04:22 INFO  loggingFilter:30 - request Payload :{"firstName":"Rahul","lastName":"Sharma","email":"rahul.sharma03@gmail.com","mobileNumber":"9345678922","id":"1","username":"profile_edit03"}
+2026-05-06 02:04:22 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:04:22 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:34:22 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:04:22 INFO  loggingFilter:36 - response Payload :{
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "firstName": "Rahul",
+    "lastName": "Sharma",
+    "mobileNumber": "9345678922"
+}
+2026-05-06 02:04:23 INFO  myTestListner:24 - Test Got Passed*****
+2026-05-06 02:04:23 INFO  myTestListner:25 - class org.testng.internal.TestNGMethod
+2026-05-06 02:04:23 INFO  myTestListner:26 - Description***
+2026-05-06 02:04:23 INFO  myTestListner:35 - This Suit Completed*****
+2026-05-06 02:07:26 INFO  myTestListner:14 - This Suit Started*****
+2026-05-06 02:07:26 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-06 02:07:26 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-06 02:07:27 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:07:27 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 02:07:27 INFO  loggingFilter:30 - request Payload :{"username":"uday1234","password":"uday12345"}
+2026-05-06 02:07:28 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:07:28 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:37:27 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:07:28 INFO  loggingFilter:36 - response Payload :{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzQ0NywiZXhwIjoxNzc4MDE3MDQ3fQ.z1O01tx2RZ5sMuGg1cGBgQw03ewHvIoPtAFhj6bmW3Q",
+    "type": "Bearer",
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2026-05-06 02:07:28 INFO  myTestListner:24 - Test Got Passed*****
+2026-05-06 02:07:28 INFO  myTestListner:25 - class org.testng.internal.TestNGMethod
+2026-05-06 02:07:28 INFO  myTestListner:26 - Description***Verify if Login Api is working....
+2026-05-06 02:07:28 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-06 02:07:28 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-06 02:07:28 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:07:28 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 02:07:28 INFO  loggingFilter:30 - request Payload :{"username":"daron.boyle","password":"f0wb4xs8qtzans","email":"john.batz@hotmail.com","firstName":"Margaretta","lastName":"O'Hara","mobileNumber":"9486061304"}
+2026-05-06 02:07:28 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:07:28 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=text/plain;charset=UTF-8
+Content-Length=29
+Date=Tue, 05 May 2026 20:37:27 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:07:28 INFO  loggingFilter:36 - response Payload :User registered successfully!
+2026-05-06 02:07:28 INFO  myTestListner:24 - Test Got Passed*****
+2026-05-06 02:07:28 INFO  myTestListner:25 - class org.testng.internal.TestNGMethod
+2026-05-06 02:07:28 INFO  myTestListner:26 - Description***Verify that a user can sign up successfully with valid details
+2026-05-06 02:07:28 INFO  myTestListner:18 - Test Execution Started*****
+2026-05-06 02:07:28 INFO  myTestListner:19 - Start****class org.testng.internal.TestNGMethod
+2026-05-06 02:07:28 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:07:28 INFO  loggingFilter:29 - request Header :Accept=*/*
+Content-Type=application/json
+2026-05-06 02:07:28 INFO  loggingFilter:30 - request Payload :{"username":"uday1234","password":"uday12345"}
+2026-05-06 02:07:28 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:07:28 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:37:28 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:07:28 INFO  loggingFilter:36 - response Payload :{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzQ0OCwiZXhwIjoxNzc4MDE3MDQ4fQ.txLkxDiADvLrymhpGpv1RtGchqrm2Sn5sAwBWHt727o",
+    "type": "Bearer",
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2026-05-06 02:07:28 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:07:28 INFO  loggingFilter:29 - request Header :Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzQ0OCwiZXhwIjoxNzc4MDE3MDQ4fQ.txLkxDiADvLrymhpGpv1RtGchqrm2Sn5sAwBWHt727o
+Accept=*/*
+2026-05-06 02:07:28 INFO  loggingFilter:30 - request Payload :null
+2026-05-06 02:07:28 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:07:28 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:37:28 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:07:28 INFO  loggingFilter:36 - response Payload :{
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "firstName": "Rahul",
+    "lastName": "Sharma",
+    "mobileNumber": "9345678922"
+}
+2026-05-06 02:07:28 INFO  loggingFilter:28 - BASE URI:http://64.227.160.186:8080/
+2026-05-06 02:07:28 INFO  loggingFilter:29 - request Header :Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzQ0OCwiZXhwIjoxNzc4MDE3MDQ4fQ.txLkxDiADvLrymhpGpv1RtGchqrm2Sn5sAwBWHt727o
+Accept=*/*
+Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1ZGF5MTIzNCIsImlhdCI6MTc3ODAxMzQ0OCwiZXhwIjoxNzc4MDE3MDQ4fQ.txLkxDiADvLrymhpGpv1RtGchqrm2Sn5sAwBWHt727o
+Content-Type=application/json
+2026-05-06 02:07:28 INFO  loggingFilter:30 - request Payload :{"firstName":"Rahul","lastName":"Sharma","email":"rahul.sharma03@gmail.com","mobileNumber":"9345678922","id":"1","username":"profile_edit03"}
+2026-05-06 02:07:28 INFO  loggingFilter:34 - Status Code :200
+2026-05-06 02:07:28 INFO  loggingFilter:35 -  Request Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 05 May 2026 20:37:28 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2026-05-06 02:07:28 INFO  loggingFilter:36 - response Payload :{
+    "id": 1,
+    "username": "uday1234",
+    "email": "rahul.sharma03@gmail.com",
+    "firstName": "Rahul",
+    "lastName": "Sharma",
+    "mobileNumber": "9345678922"
+}
+2026-05-06 02:07:28 INFO  myTestListner:24 - Test Got Passed*****
+2026-05-06 02:07:28 INFO  myTestListner:25 - class org.testng.internal.TestNGMethod
+2026-05-06 02:07:28 INFO  myTestListner:26 - Description***
+2026-05-06 02:07:28 INFO  myTestListner:35 - This Suit Completed*****

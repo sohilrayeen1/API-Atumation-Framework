@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-06T02:07:26 IST" name="Suite" finished-at="2026-05-06T02:07:28 IST" duration-ms="1884">
+    <groups>
+    </groups>
+    <test started-at="2026-05-06T02:07:26 IST" name="Test" finished-at="2026-05-06T02:07:28 IST" duration-ms="1884">
+      <class name="com.api.test.updateUserTest">
+        <test-method signature="updateUser()[pri:0, instance:com.api.test.updateUserTest@7133da86]" started-at="2026-05-06T02:07:28 IST" name="updateUser" finished-at="2026-05-06T02:07:28 IST" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+      </class> <!-- com.api.test.updateUserTest -->
+      <class name="com.api.test.signUpTestBuilder">
+        <test-method signature="signUpTest()[pri:0, instance:com.api.test.signUpTestBuilder@3bf9ce3e]" started-at="2026-05-06T02:07:28 IST" name="signUpTest" description="Verify that a user can sign up successfully with valid details" finished-at="2026-05-06T02:07:28 IST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpTest -->
+      </class> <!-- com.api.test.signUpTestBuilder -->
+      <class name="com.api.test.loginTest">
+        <test-method signature="logintest()[pri:0, instance:com.api.test.loginTest@57d7f8ca]" started-at="2026-05-06T02:07:26 IST" name="logintest" description="Verify if Login Api is working...." finished-at="2026-05-06T02:07:28 IST" duration-ms="1316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+      </class> <!-- com.api.test.loginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
